@@ -1,0 +1,2 @@
+вызов ./gradlew <task>
+
