@@ -1,4 +1,4 @@
-import com.dmdev.plugin.CustomPlugin
+//import com.dmdev.plugin.CustomPlugin
 
 plugins {
     id 'java-library'
@@ -6,7 +6,7 @@ plugins {
     id 'custom-dmdev'
 }
 
-apply plugin: CustomPlugin
+//apply plugin: CustomPlugin
 
 repositories {
     mavenCentral()
